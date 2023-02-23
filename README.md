@@ -5,12 +5,12 @@ The E-Commerce Backend was created to increase my ability to work with MySQL and
 
 ## Installation and Usage 
 
-Clone this repo 
-Install packages using npm i
-Run the db from the schema folder in MySQL
-Run npm seed to use the sample data
-Run node server.js to start the server
-Use Postman to test the APIs of your choice
+- Clone this repo 
+- Install packages using npm i
+- Run the db from the schema folder in MySQL
+- Run npm seed to use the sample data
+- Run node server.js to start the server
+- Use Postman to test the APIs of your choice
 
 ## Video Walkthrough
 https://youtu.be/scGHXF1OyyU
